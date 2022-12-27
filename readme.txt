@@ -1,0 +1,2 @@
+Before using the code in this project, what you need to do is to log in to the https://console.developers.google.com/ link and get an api key.
+Here is a example video shows you how to take API key:   https://www.youtube.com/watch?v=jykW3AX8pEE&ab_channel=TheLapLife
